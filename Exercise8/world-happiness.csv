@@ -1,0 +1,1838 @@
+﻿geo;name;time;Happiness score (WHR)
+afg;Afghanistan;2008;37
+afg;Afghanistan;2009;44
+afg;Afghanistan;2010;48
+afg;Afghanistan;2011;38
+afg;Afghanistan;2012;38
+afg;Afghanistan;2013;36
+afg;Afghanistan;2014;31
+afg;Afghanistan;2015;40
+afg;Afghanistan;2016;42
+afg;Afghanistan;2017;27
+afg;Afghanistan;2018;27
+afg;Afghanistan;2019;26
+alb;Albania;2007;46
+alb;Albania;2009;55
+alb;Albania;2010;53
+alb;Albania;2011;59
+alb;Albania;2012;55
+alb;Albania;2013;46
+alb;Albania;2014;48
+alb;Albania;2015;46
+alb;Albania;2016;45
+alb;Albania;2017;46
+alb;Albania;2018;50
+alb;Albania;2019;49
+dza;Algeria;2010;55
+dza;Algeria;2011;53
+dza;Algeria;2012;56
+dza;Algeria;2014;64
+dza;Algeria;2016;53
+dza;Algeria;2017;52
+dza;Algeria;2018;50
+dza;Algeria;2019;50
+ago;Angola;2011;56
+ago;Angola;2012;44
+ago;Angola;2013;39
+ago;Angola;2014;38
+arg;Argentina;2006;63
+arg;Argentina;2007;61
+arg;Argentina;2008;60
+arg;Argentina;2009;64
+arg;Argentina;2010;64
+arg;Argentina;2011;68
+arg;Argentina;2012;65
+arg;Argentina;2013;66
+arg;Argentina;2014;67
+arg;Argentina;2015;67
+arg;Argentina;2016;64
+arg;Argentina;2017;60
+arg;Argentina;2018;58
+arg;Argentina;2019;60
+arm;Armenia;2006;43
+arm;Armenia;2007;49
+arm;Armenia;2008;47
+arm;Armenia;2009;42
+arm;Armenia;2010;44
+arm;Armenia;2011;43
+arm;Armenia;2012;43
+arm;Armenia;2013;43
+arm;Armenia;2014;45
+arm;Armenia;2015;43
+arm;Armenia;2016;43
+arm;Armenia;2017;43
+arm;Armenia;2018;51
+arm;Armenia;2019;47
+aus;Australia;2005;73
+aus;Australia;2007;73
+aus;Australia;2008;73
+aus;Australia;2010;75
+aus;Australia;2011;74
+aus;Australia;2012;72
+aus;Australia;2013;74
+aus;Australia;2014;73
+aus;Australia;2015;73
+aus;Australia;2016;73
+aus;Australia;2017;73
+aus;Australia;2018;72
+aus;Australia;2019;72
+aut;Austria;2006;71
+aut;Austria;2008;72
+aut;Austria;2010;73
+aut;Austria;2011;75
+aut;Austria;2012;74
+aut;Austria;2013;75
+aut;Austria;2014;69
+aut;Austria;2015;71
+aut;Austria;2016;70
+aut;Austria;2017;73
+aut;Austria;2018;74
+aut;Austria;2019;73
+aze;Azerbaijan;2006;47
+aze;Azerbaijan;2007;46
+aze;Azerbaijan;2008;48
+aze;Azerbaijan;2009;46
+aze;Azerbaijan;2010;42
+aze;Azerbaijan;2011;47
+aze;Azerbaijan;2012;49
+aze;Azerbaijan;2013;55
+aze;Azerbaijan;2014;53
+aze;Azerbaijan;2015;51
+aze;Azerbaijan;2016;53
+aze;Azerbaijan;2017;52
+aze;Azerbaijan;2018;52
+aze;Azerbaijan;2019;52
+bhr;Bahrain;2009;57
+bhr;Bahrain;2010;59
+bhr;Bahrain;2011;48
+bhr;Bahrain;2012;50
+bhr;Bahrain;2013;67
+bhr;Bahrain;2014;62
+bhr;Bahrain;2015;60
+bhr;Bahrain;2016;62
+bhr;Bahrain;2017;62
+bhr;Bahrain;2019;62
+bgd;Bangladesh;2006;43
+bgd;Bangladesh;2007;46
+bgd;Bangladesh;2008;51
+bgd;Bangladesh;2009;51
+bgd;Bangladesh;2010;49
+bgd;Bangladesh;2011;50
+bgd;Bangladesh;2012;47
+bgd;Bangladesh;2013;47
+bgd;Bangladesh;2014;46
+bgd;Bangladesh;2015;46
+bgd;Bangladesh;2016;46
+bgd;Bangladesh;2017;43
+bgd;Bangladesh;2018;45
+bgd;Bangladesh;2019;48
+blr;Belarus;2006;57
+blr;Belarus;2007;56
+blr;Belarus;2008;55
+blr;Belarus;2009;56
+blr;Belarus;2010;55
+blr;Belarus;2011;52
+blr;Belarus;2012;57
+blr;Belarus;2013;59
+blr;Belarus;2014;58
+blr;Belarus;2015;57
+blr;Belarus;2016;52
+blr;Belarus;2017;56
+blr;Belarus;2018;52
+blr;Belarus;2019;55
+bel;Belgium;2005;73
+bel;Belgium;2007;72
+bel;Belgium;2008;71
+bel;Belgium;2010;69
+bel;Belgium;2011;71
+bel;Belgium;2012;69
+bel;Belgium;2013;71
+bel;Belgium;2014;69
+bel;Belgium;2015;69
+bel;Belgium;2016;69
+bel;Belgium;2017;69
+bel;Belgium;2018;69
+bel;Belgium;2019;69
+blz;Belize;2007;65
+blz;Belize;2014;60
+ben;Benin;2006;33
+ben;Benin;2008;37
+ben;Benin;2011;39
+ben;Benin;2012;32
+ben;Benin;2013;35
+ben;Benin;2014;33
+ben;Benin;2015;36
+ben;Benin;2016;40
+ben;Benin;2017;49
+ben;Benin;2018;58
+ben;Benin;2019;52
+btn;Bhutan;2013;56
+btn;Bhutan;2014;49
+btn;Bhutan;2015;51
+bol;Bolivia;2006;54
+bol;Bolivia;2007;56
+bol;Bolivia;2008;53
+bol;Bolivia;2009;61
+bol;Bolivia;2010;58
+bol;Bolivia;2011;58
+bol;Bolivia;2012;60
+bol;Bolivia;2013;58
+bol;Bolivia;2014;59
+bol;Bolivia;2015;58
+bol;Bolivia;2016;58
+bol;Bolivia;2017;57
+bol;Bolivia;2018;59
+bol;Bolivia;2019;57
+bih;Bosnia and Herzegovina;2007;49
+bih;Bosnia and Herzegovina;2009;50
+bih;Bosnia and Herzegovina;2010;47
+bih;Bosnia and Herzegovina;2011;50
+bih;Bosnia and Herzegovina;2012;48
+bih;Bosnia and Herzegovina;2013;51
+bih;Bosnia and Herzegovina;2014;52
+bih;Bosnia and Herzegovina;2015;51
+bih;Bosnia and Herzegovina;2016;52
+bih;Bosnia and Herzegovina;2017;51
+bih;Bosnia and Herzegovina;2018;59
+bih;Bosnia and Herzegovina;2019;57
+bwa;Botswana;2006;47
+bwa;Botswana;2008;55
+bwa;Botswana;2010;36
+bwa;Botswana;2011;35
+bwa;Botswana;2012;48
+bwa;Botswana;2013;41
+bwa;Botswana;2014;40
+bwa;Botswana;2015;38
+bwa;Botswana;2016;35
+bwa;Botswana;2017;35
+bwa;Botswana;2018;35
+bwa;Botswana;2019;35
+bra;Brazil;2005;66
+bra;Brazil;2007;63
+bra;Brazil;2008;67
+bra;Brazil;2009;70
+bra;Brazil;2010;68
+bra;Brazil;2011;70
+bra;Brazil;2012;67
+bra;Brazil;2013;71
+bra;Brazil;2014;70
+bra;Brazil;2015;65
+bra;Brazil;2016;64
+bra;Brazil;2017;63
+bra;Brazil;2018;62
+bra;Brazil;2019;64
+bgr;Bulgaria;2007;38
+bgr;Bulgaria;2010;39
+bgr;Bulgaria;2011;39
+bgr;Bulgaria;2012;42
+bgr;Bulgaria;2013;40
+bgr;Bulgaria;2014;44
+bgr;Bulgaria;2015;49
+bgr;Bulgaria;2016;48
+bgr;Bulgaria;2017;51
+bgr;Bulgaria;2018;51
+bgr;Bulgaria;2019;51
+bfa;Burkina Faso;2006;38
+bfa;Burkina Faso;2007;40
+bfa;Burkina Faso;2008;38
+bfa;Burkina Faso;2010;40
+bfa;Burkina Faso;2011;48
+bfa;Burkina Faso;2012;40
+bfa;Burkina Faso;2013;33
+bfa;Burkina Faso;2014;35
+bfa;Burkina Faso;2015;44
+bfa;Burkina Faso;2016;42
+bfa;Burkina Faso;2017;46
+bfa;Burkina Faso;2018;49
+bfa;Burkina Faso;2019;48
+bdi;Burundi;2008;36
+bdi;Burundi;2009;38
+bdi;Burundi;2011;37
+bdi;Burundi;2014;29
+bdi;Burundi;2018;38
+bdi;Burundi;2019;38
+khm;Cambodia;2006;36
+khm;Cambodia;2007;42
+khm;Cambodia;2008;45
+khm;Cambodia;2009;41
+khm;Cambodia;2010;41
+khm;Cambodia;2011;42
+khm;Cambodia;2012;39
+khm;Cambodia;2013;37
+khm;Cambodia;2014;39
+khm;Cambodia;2015;42
+khm;Cambodia;2016;45
+khm;Cambodia;2017;46
+khm;Cambodia;2018;51
+khm;Cambodia;2019;48
+cmr;Cameroon;2006;39
+cmr;Cameroon;2007;43
+cmr;Cameroon;2008;43
+cmr;Cameroon;2009;47
+cmr;Cameroon;2010;46
+cmr;Cameroon;2011;44
+cmr;Cameroon;2012;42
+cmr;Cameroon;2013;43
+cmr;Cameroon;2014;42
+cmr;Cameroon;2015;50
+cmr;Cameroon;2016;48
+cmr;Cameroon;2017;51
+cmr;Cameroon;2018;53
+cmr;Cameroon;2019;51
+can;Canada;2005;74
+can;Canada;2007;75
+can;Canada;2008;75
+can;Canada;2009;75
+can;Canada;2010;77
+can;Canada;2011;74
+can;Canada;2012;74
+can;Canada;2013;76
+can;Canada;2014;73
+can;Canada;2015;74
+can;Canada;2016;72
+can;Canada;2017;74
+can;Canada;2018;72
+can;Canada;2019;72
+caf;Central African Republic;2007;42
+caf;Central African Republic;2010;36
+caf;Central African Republic;2011;37
+caf;Central African Republic;2016;27
+caf;Central African Republic;2017;35
+caf;Central African Republic;2019;35
+tcd;Chad;2006;34
+tcd;Chad;2007;41
+tcd;Chad;2008;46
+tcd;Chad;2009;36
+tcd;Chad;2010;37
+tcd;Chad;2011;44
+tcd;Chad;2012;40
+tcd;Chad;2013;35
+tcd;Chad;2014;35
+tcd;Chad;2015;43
+tcd;Chad;2016;40
+tcd;Chad;2017;46
+tcd;Chad;2018;45
+tcd;Chad;2019;44
+chl;Chile;2006;61
+chl;Chile;2007;57
+chl;Chile;2008;58
+chl;Chile;2009;65
+chl;Chile;2010;66
+chl;Chile;2011;65
+chl;Chile;2012;66
+chl;Chile;2013;67
+chl;Chile;2014;68
+chl;Chile;2015;65
+chl;Chile;2016;66
+chl;Chile;2017;63
+chl;Chile;2018;64
+chl;Chile;2019;62
+chn;China;2006;46
+chn;China;2007;49
+chn;China;2008;48
+chn;China;2009;45
+chn;China;2010;47
+chn;China;2011;50
+chn;China;2012;51
+chn;China;2013;52
+chn;China;2014;52
+chn;China;2015;53
+chn;China;2016;53
+chn;China;2017;51
+chn;China;2018;51
+chn;China;2019;51
+col;Colombia;2006;60
+col;Colombia;2007;61
+col;Colombia;2008;62
+col;Colombia;2009;63
+col;Colombia;2010;64
+col;Colombia;2011;65
+col;Colombia;2012;64
+col;Colombia;2013;66
+col;Colombia;2014;64
+col;Colombia;2015;64
+col;Colombia;2016;62
+col;Colombia;2017;62
+col;Colombia;2018;60
+col;Colombia;2019;62
+com;Comoros;2009;35
+com;Comoros;2010;38
+com;Comoros;2011;38
+com;Comoros;2012;40
+com;Comoros;2018;40
+com;Comoros;2019;43
+cod;Congo, Dem. Rep.;2009;40
+cod;Congo, Dem. Rep.;2011;45
+cod;Congo, Dem. Rep.;2012;46
+cod;Congo, Dem. Rep.;2013;45
+cod;Congo, Dem. Rep.;2014;44
+cod;Congo, Dem. Rep.;2015;39
+cod;Congo, Dem. Rep.;2016;45
+cod;Congo, Dem. Rep.;2017;43
+cod;Congo, Dem. Rep.;2019;43
+cog;Congo, Rep.;2008;38
+cog;Congo, Rep.;2011;45
+cog;Congo, Rep.;2012;39
+cog;Congo, Rep.;2013;40
+cog;Congo, Rep.;2014;41
+cog;Congo, Rep.;2015;47
+cog;Congo, Rep.;2016;41
+cog;Congo, Rep.;2017;49
+cog;Congo, Rep.;2018;55
+cog;Congo, Rep.;2019;52
+cri;Costa Rica;2006;71
+cri;Costa Rica;2007;74
+cri;Costa Rica;2008;69
+cri;Costa Rica;2009;76
+cri;Costa Rica;2010;73
+cri;Costa Rica;2011;72
+cri;Costa Rica;2012;73
+cri;Costa Rica;2013;72
+cri;Costa Rica;2014;72
+cri;Costa Rica;2015;69
+cri;Costa Rica;2016;71
+cri;Costa Rica;2017;72
+cri;Costa Rica;2018;71
+cri;Costa Rica;2019;71
+civ;Cote d'Ivoire;2009;42
+civ;Cote d'Ivoire;2013;37
+civ;Cote d'Ivoire;2014;36
+civ;Cote d'Ivoire;2015;44
+civ;Cote d'Ivoire;2016;45
+civ;Cote d'Ivoire;2017;50
+civ;Cote d'Ivoire;2018;53
+civ;Cote d'Ivoire;2019;52
+hrv;Croatia;2007;58
+hrv;Croatia;2009;54
+hrv;Croatia;2010;56
+hrv;Croatia;2011;54
+hrv;Croatia;2012;60
+hrv;Croatia;2013;59
+hrv;Croatia;2014;54
+hrv;Croatia;2015;52
+hrv;Croatia;2016;54
+hrv;Croatia;2017;53
+hrv;Croatia;2018;55
+hrv;Croatia;2019;55
+cub;Cuba;2006;54
+cyp;Cyprus;2006;62
+cyp;Cyprus;2009;68
+cyp;Cyprus;2010;64
+cyp;Cyprus;2011;67
+cyp;Cyprus;2012;62
+cyp;Cyprus;2013;54
+cyp;Cyprus;2014;56
+cyp;Cyprus;2015;54
+cyp;Cyprus;2016;58
+cyp;Cyprus;2017;61
+cyp;Cyprus;2018;63
+cyp;Cyprus;2019;62
+cze;Czech Republic;2005;64
+cze;Czech Republic;2007;65
+cze;Czech Republic;2010;62
+cze;Czech Republic;2011;63
+cze;Czech Republic;2012;63
+cze;Czech Republic;2013;67
+cze;Czech Republic;2014;65
+cze;Czech Republic;2015;66
+cze;Czech Republic;2016;67
+cze;Czech Republic;2017;68
+cze;Czech Republic;2018;70
+cze;Czech Republic;2019;69
+dnk;Denmark;2005;80
+dnk;Denmark;2007;78
+dnk;Denmark;2008;80
+dnk;Denmark;2009;77
+dnk;Denmark;2010;78
+dnk;Denmark;2011;78
+dnk;Denmark;2012;75
+dnk;Denmark;2013;76
+dnk;Denmark;2014;75
+dnk;Denmark;2015;75
+dnk;Denmark;2016;76
+dnk;Denmark;2017;76
+dnk;Denmark;2018;76
+dnk;Denmark;2019;76
+dji;Djibouti;2008;50
+dji;Djibouti;2009;49
+dji;Djibouti;2010;50
+dji;Djibouti;2011;44
+dom;Dominican Republic;2006;51
+dom;Dominican Republic;2007;51
+dom;Dominican Republic;2008;48
+dom;Dominican Republic;2009;54
+dom;Dominican Republic;2010;47
+dom;Dominican Republic;2011;54
+dom;Dominican Republic;2012;48
+dom;Dominican Republic;2013;50
+dom;Dominican Republic;2014;54
+dom;Dominican Republic;2015;51
+dom;Dominican Republic;2016;52
+dom;Dominican Republic;2017;56
+dom;Dominican Republic;2018;54
+dom;Dominican Republic;2019;57
+ecu;Ecuador;2006;50
+ecu;Ecuador;2007;50
+ecu;Ecuador;2008;53
+ecu;Ecuador;2009;60
+ecu;Ecuador;2010;58
+ecu;Ecuador;2011;58
+ecu;Ecuador;2012;60
+ecu;Ecuador;2013;60
+ecu;Ecuador;2014;59
+ecu;Ecuador;2015;60
+ecu;Ecuador;2016;61
+ecu;Ecuador;2017;58
+ecu;Ecuador;2018;61
+ecu;Ecuador;2019;59
+egy;Egypt;2005;52
+egy;Egypt;2007;55
+egy;Egypt;2008;46
+egy;Egypt;2009;51
+egy;Egypt;2010;47
+egy;Egypt;2011;42
+egy;Egypt;2012;42
+egy;Egypt;2013;36
+egy;Egypt;2014;49
+egy;Egypt;2015;48
+egy;Egypt;2016;46
+egy;Egypt;2017;39
+egy;Egypt;2018;40
+egy;Egypt;2019;42
+slv;El Salvador;2006;57
+slv;El Salvador;2007;53
+slv;El Salvador;2008;52
+slv;El Salvador;2009;68
+slv;El Salvador;2010;67
+slv;El Salvador;2011;47
+slv;El Salvador;2012;59
+slv;El Salvador;2013;63
+slv;El Salvador;2014;59
+slv;El Salvador;2015;60
+slv;El Salvador;2016;61
+slv;El Salvador;2017;63
+slv;El Salvador;2018;63
+slv;El Salvador;2019;63
+est;Estonia;2006;54
+est;Estonia;2007;53
+est;Estonia;2008;55
+est;Estonia;2009;51
+est;Estonia;2011;55
+est;Estonia;2012;54
+est;Estonia;2013;54
+est;Estonia;2014;56
+est;Estonia;2015;56
+est;Estonia;2016;56
+est;Estonia;2017;59
+est;Estonia;2018;61
+est;Estonia;2019;60
+eth;Ethiopia;2012;46
+eth;Ethiopia;2013;44
+eth;Ethiopia;2014;45
+eth;Ethiopia;2015;46
+eth;Ethiopia;2016;43
+eth;Ethiopia;2017;42
+eth;Ethiopia;2018;44
+eth;Ethiopia;2019;42
+fin;Finland;2006;77
+fin;Finland;2008;77
+fin;Finland;2010;74
+fin;Finland;2011;74
+fin;Finland;2012;74
+fin;Finland;2013;74
+fin;Finland;2014;74
+fin;Finland;2015;74
+fin;Finland;2016;77
+fin;Finland;2017;78
+fin;Finland;2018;79
+fin;Finland;2019;78
+fra;France;2005;71
+fra;France;2006;66
+fra;France;2008;70
+fra;France;2009;63
+fra;France;2010;68
+fra;France;2011;70
+fra;France;2012;66
+fra;France;2013;67
+fra;France;2014;65
+fra;France;2015;64
+fra;France;2016;65
+fra;France;2017;66
+fra;France;2018;67
+fra;France;2019;67
+gab;Gabon;2011;43
+gab;Gabon;2012;40
+gab;Gabon;2013;38
+gab;Gabon;2014;39
+gab;Gabon;2015;47
+gab;Gabon;2016;48
+gab;Gabon;2017;48
+gab;Gabon;2018;48
+gab;Gabon;2019;48
+gmb;Gambia;2017;41
+gmb;Gambia;2018;49
+gmb;Gambia;2019;48
+geo;Georgia;2006;37
+geo;Georgia;2007;37
+geo;Georgia;2008;42
+geo;Georgia;2009;38
+geo;Georgia;2010;41
+geo;Georgia;2011;42
+geo;Georgia;2012;43
+geo;Georgia;2013;43
+geo;Georgia;2014;43
+geo;Georgia;2015;41
+geo;Georgia;2016;44
+geo;Georgia;2017;45
+geo;Georgia;2018;47
+geo;Georgia;2019;47
+deu;Germany;2005;66
+deu;Germany;2007;64
+deu;Germany;2008;65
+deu;Germany;2009;66
+deu;Germany;2010;67
+deu;Germany;2011;66
+deu;Germany;2012;67
+deu;Germany;2013;70
+deu;Germany;2014;70
+deu;Germany;2015;70
+deu;Germany;2016;69
+deu;Germany;2017;71
+deu;Germany;2018;71
+deu;Germany;2019;71
+gha;Ghana;2006;45
+gha;Ghana;2007;52
+gha;Ghana;2008;50
+gha;Ghana;2009;42
+gha;Ghana;2010;46
+gha;Ghana;2011;56
+gha;Ghana;2012;51
+gha;Ghana;2013;50
+gha;Ghana;2014;39
+gha;Ghana;2015;40
+gha;Ghana;2016;45
+gha;Ghana;2017;55
+gha;Ghana;2019;51
+grc;Greece;2005;60
+grc;Greece;2007;66
+grc;Greece;2009;60
+grc;Greece;2010;58
+grc;Greece;2011;54
+grc;Greece;2012;51
+grc;Greece;2013;47
+grc;Greece;2014;48
+grc;Greece;2015;56
+grc;Greece;2016;53
+grc;Greece;2017;51
+grc;Greece;2018;54
+grc;Greece;2019;55
+gtm;Guatemala;2006;59
+gtm;Guatemala;2007;63
+gtm;Guatemala;2008;64
+gtm;Guatemala;2009;65
+gtm;Guatemala;2010;63
+gtm;Guatemala;2011;57
+gtm;Guatemala;2012;59
+gtm;Guatemala;2013;60
+gtm;Guatemala;2014;65
+gtm;Guatemala;2015;65
+gtm;Guatemala;2016;64
+gtm;Guatemala;2017;63
+gtm;Guatemala;2018;66
+gtm;Guatemala;2019;64
+gin;Guinea;2011;40
+gin;Guinea;2012;37
+gin;Guinea;2013;39
+gin;Guinea;2014;34
+gin;Guinea;2015;35
+gin;Guinea;2016;36
+gin;Guinea;2017;49
+gin;Guinea;2018;53
+gin;Guinea;2019;49
+guy;Guyana;2007;60
+hti;Haiti;2006;38
+hti;Haiti;2008;38
+hti;Haiti;2010;38
+hti;Haiti;2011;48
+hti;Haiti;2012;44
+hti;Haiti;2013;46
+hti;Haiti;2014;39
+hti;Haiti;2015;36
+hti;Haiti;2016;34
+hti;Haiti;2017;38
+hti;Haiti;2018;36
+hti;Haiti;2019;37
+hnd;Honduras;2006;54
+hnd;Honduras;2007;51
+hnd;Honduras;2008;54
+hnd;Honduras;2009;60
+hnd;Honduras;2010;59
+hnd;Honduras;2011;50
+hnd;Honduras;2012;46
+hnd;Honduras;2013;47
+hnd;Honduras;2014;51
+hnd;Honduras;2015;48
+hnd;Honduras;2016;56
+hnd;Honduras;2017;60
+hnd;Honduras;2018;59
+hnd;Honduras;2019;60
+hkg;Hong Kong, China;2006;55
+hkg;Hong Kong, China;2008;51
+hkg;Hong Kong, China;2009;54
+hkg;Hong Kong, China;2010;56
+hkg;Hong Kong, China;2011;55
+hkg;Hong Kong, China;2012;55
+hkg;Hong Kong, China;2014;55
+hkg;Hong Kong, China;2016;55
+hkg;Hong Kong, China;2017;54
+hkg;Hong Kong, China;2019;55
+hun;Hungary;2005;52
+hun;Hungary;2007;50
+hun;Hungary;2009;49
+hun;Hungary;2010;47
+hun;Hungary;2011;49
+hun;Hungary;2012;47
+hun;Hungary;2013;49
+hun;Hungary;2014;52
+hun;Hungary;2015;53
+hun;Hungary;2016;54
+hun;Hungary;2017;61
+hun;Hungary;2019;60
+isl;Iceland;2008;69
+isl;Iceland;2012;76
+isl;Iceland;2013;75
+isl;Iceland;2015;75
+isl;Iceland;2016;75
+isl;Iceland;2017;75
+isl;Iceland;2019;75
+ind;India;2006;53
+ind;India;2007;50
+ind;India;2008;51
+ind;India;2009;45
+ind;India;2010;50
+ind;India;2011;46
+ind;India;2012;47
+ind;India;2013;44
+ind;India;2014;44
+ind;India;2015;43
+ind;India;2016;42
+ind;India;2017;40
+ind;India;2018;38
+ind;India;2019;36
+idn;Indonesia;2006;49
+idn;Indonesia;2007;51
+idn;Indonesia;2008;48
+idn;Indonesia;2009;55
+idn;Indonesia;2010;55
+idn;Indonesia;2011;52
+idn;Indonesia;2012;54
+idn;Indonesia;2013;53
+idn;Indonesia;2014;56
+idn;Indonesia;2015;50
+idn;Indonesia;2016;51
+idn;Indonesia;2017;51
+idn;Indonesia;2018;53
+idn;Indonesia;2019;53
+irn;Iran;2005;53
+irn;Iran;2007;53
+irn;Iran;2008;51
+irn;Iran;2011;48
+irn;Iran;2012;46
+irn;Iran;2013;51
+irn;Iran;2014;47
+irn;Iran;2015;47
+irn;Iran;2016;47
+irn;Iran;2017;47
+irn;Iran;2018;43
+irn;Iran;2019;47
+irq;Iraq;2008;46
+irq;Iraq;2009;48
+irq;Iraq;2010;51
+irq;Iraq;2011;47
+irq;Iraq;2012;47
+irq;Iraq;2013;47
+irq;Iraq;2014;45
+irq;Iraq;2015;45
+irq;Iraq;2016;44
+irq;Iraq;2017;45
+irq;Iraq;2019;48
+irl;Ireland;2006;71
+irl;Ireland;2008;76
+irl;Ireland;2009;70
+irl;Ireland;2010;73
+irl;Ireland;2011;70
+irl;Ireland;2012;70
+irl;Ireland;2013;68
+irl;Ireland;2014;70
+irl;Ireland;2015;68
+irl;Ireland;2016;70
+irl;Ireland;2017;71
+irl;Ireland;2018;70
+irl;Ireland;2019;71
+isr;Israel;2006;72
+isr;Israel;2007;68
+isr;Israel;2008;73
+isr;Israel;2009;74
+isr;Israel;2010;74
+isr;Israel;2011;74
+isr;Israel;2012;71
+isr;Israel;2013;73
+isr;Israel;2014;74
+isr;Israel;2015;71
+isr;Israel;2016;72
+isr;Israel;2017;73
+isr;Israel;2018;69
+isr;Israel;2019;71
+ita;Italy;2005;69
+ita;Italy;2007;66
+ita;Italy;2008;68
+ita;Italy;2009;63
+ita;Italy;2010;64
+ita;Italy;2011;61
+ita;Italy;2012;58
+ita;Italy;2013;60
+ita;Italy;2014;60
+ita;Italy;2015;58
+ita;Italy;2016;60
+ita;Italy;2017;62
+ita;Italy;2018;65
+ita;Italy;2019;64
+jam;Jamaica;2006;62
+jam;Jamaica;2011;54
+jam;Jamaica;2013;57
+jam;Jamaica;2014;53
+jam;Jamaica;2017;59
+jam;Jamaica;2019;59
+jpn;Japan;2005;65
+jpn;Japan;2007;62
+jpn;Japan;2008;59
+jpn;Japan;2009;58
+jpn;Japan;2010;61
+jpn;Japan;2011;63
+jpn;Japan;2012;60
+jpn;Japan;2013;60
+jpn;Japan;2014;59
+jpn;Japan;2015;59
+jpn;Japan;2016;60
+jpn;Japan;2017;59
+jpn;Japan;2018;58
+jpn;Japan;2019;59
+jor;Jordan;2005;63
+jor;Jordan;2007;56
+jor;Jordan;2008;49
+jor;Jordan;2009;60
+jor;Jordan;2010;56
+jor;Jordan;2011;55
+jor;Jordan;2012;51
+jor;Jordan;2013;52
+jor;Jordan;2014;53
+jor;Jordan;2015;54
+jor;Jordan;2016;53
+jor;Jordan;2017;48
+jor;Jordan;2018;46
+jor;Jordan;2019;46
+kaz;Kazakhstan;2006;55
+kaz;Kazakhstan;2007;57
+kaz;Kazakhstan;2008;59
+kaz;Kazakhstan;2009;54
+kaz;Kazakhstan;2010;55
+kaz;Kazakhstan;2011;57
+kaz;Kazakhstan;2012;58
+kaz;Kazakhstan;2013;58
+kaz;Kazakhstan;2014;60
+kaz;Kazakhstan;2015;59
+kaz;Kazakhstan;2016;55
+kaz;Kazakhstan;2017;59
+kaz;Kazakhstan;2018;60
+kaz;Kazakhstan;2019;61
+ken;Kenya;2006;42
+ken;Kenya;2007;46
+ken;Kenya;2008;40
+ken;Kenya;2009;43
+ken;Kenya;2010;43
+ken;Kenya;2011;44
+ken;Kenya;2012;45
+ken;Kenya;2013;38
+ken;Kenya;2014;49
+ken;Kenya;2015;44
+ken;Kenya;2016;44
+ken;Kenya;2017;45
+ken;Kenya;2018;47
+ken;Kenya;2019;46
+kwt;Kuwait;2006;61
+kwt;Kuwait;2009;66
+kwt;Kuwait;2010;68
+kwt;Kuwait;2011;64
+kwt;Kuwait;2012;62
+kwt;Kuwait;2013;65
+kwt;Kuwait;2014;62
+kwt;Kuwait;2015;61
+kwt;Kuwait;2016;59
+kwt;Kuwait;2017;61
+kwt;Kuwait;2019;61
+kgz;Kyrgyz Republic;2006;46
+kgz;Kyrgyz Republic;2007;47
+kgz;Kyrgyz Republic;2008;47
+kgz;Kyrgyz Republic;2009;51
+kgz;Kyrgyz Republic;2010;50
+kgz;Kyrgyz Republic;2011;49
+kgz;Kyrgyz Republic;2012;52
+kgz;Kyrgyz Republic;2013;54
+kgz;Kyrgyz Republic;2014;53
+kgz;Kyrgyz Republic;2015;49
+kgz;Kyrgyz Republic;2016;49
+kgz;Kyrgyz Republic;2017;56
+kgz;Kyrgyz Republic;2018;53
+kgz;Kyrgyz Republic;2019;55
+lao;Lao;2006;51
+lao;Lao;2007;54
+lao;Lao;2008;50
+lao;Lao;2011;47
+lao;Lao;2012;49
+lao;Lao;2017;46
+lao;Lao;2018;49
+lao;Lao;2019;49
+lva;Latvia;2006;47
+lva;Latvia;2007;47
+lva;Latvia;2008;51
+lva;Latvia;2009;47
+lva;Latvia;2011;50
+lva;Latvia;2012;51
+lva;Latvia;2013;51
+lva;Latvia;2014;57
+lva;Latvia;2015;59
+lva;Latvia;2016;59
+lva;Latvia;2017;60
+lva;Latvia;2018;59
+lva;Latvia;2019;59
+lbn;Lebanon;2005;55
+lbn;Lebanon;2006;47
+lbn;Lebanon;2008;46
+lbn;Lebanon;2009;52
+lbn;Lebanon;2010;50
+lbn;Lebanon;2011;52
+lbn;Lebanon;2012;46
+lbn;Lebanon;2013;50
+lbn;Lebanon;2014;52
+lbn;Lebanon;2015;52
+lbn;Lebanon;2016;53
+lbn;Lebanon;2017;52
+lbn;Lebanon;2018;52
+lbn;Lebanon;2019;48
+lso;Lesotho;2011;49
+lso;Lesotho;2016;38
+lso;Lesotho;2017;38
+lso;Lesotho;2019;37
+lbr;Liberia;2007;37
+lbr;Liberia;2008;42
+lbr;Liberia;2010;42
+lbr;Liberia;2014;46
+lbr;Liberia;2015;27
+lbr;Liberia;2016;34
+lbr;Liberia;2017;44
+lbr;Liberia;2018;41
+lbr;Liberia;2019;46
+lby;Libya;2012;58
+lby;Libya;2015;56
+lby;Libya;2016;54
+lby;Libya;2017;56
+lby;Libya;2018;55
+lby;Libya;2019;55
+ltu;Lithuania;2006;60
+ltu;Lithuania;2007;58
+ltu;Lithuania;2008;56
+ltu;Lithuania;2009;55
+ltu;Lithuania;2010;51
+ltu;Lithuania;2011;54
+ltu;Lithuania;2012;58
+ltu;Lithuania;2013;56
+ltu;Lithuania;2014;61
+ltu;Lithuania;2015;57
+ltu;Lithuania;2016;59
+ltu;Lithuania;2017;63
+ltu;Lithuania;2018;63
+ltu;Lithuania;2019;62
+lux;Luxembourg;2009;70
+lux;Luxembourg;2010;71
+lux;Luxembourg;2011;71
+lux;Luxembourg;2012;70
+lux;Luxembourg;2013;71
+lux;Luxembourg;2014;69
+lux;Luxembourg;2015;67
+lux;Luxembourg;2016;70
+lux;Luxembourg;2017;71
+lux;Luxembourg;2018;72
+lux;Luxembourg;2019;72
+mkd;Macedonia, FYR;2007;45
+mkd;Macedonia, FYR;2009;44
+mkd;Macedonia, FYR;2010;42
+mkd;Macedonia, FYR;2011;49
+mkd;Macedonia, FYR;2012;46
+mkd;Macedonia, FYR;2013;52
+mkd;Macedonia, FYR;2014;52
+mkd;Macedonia, FYR;2015;50
+mkd;Macedonia, FYR;2016;53
+mkd;Macedonia, FYR;2017;52
+mkd;Macedonia, FYR;2018;52
+mkd;Macedonia, FYR;2019;52
+mdg;Madagascar;2006;40
+mdg;Madagascar;2008;46
+mdg;Madagascar;2011;44
+mdg;Madagascar;2012;36
+mdg;Madagascar;2013;38
+mdg;Madagascar;2014;37
+mdg;Madagascar;2015;36
+mdg;Madagascar;2016;37
+mdg;Madagascar;2017;41
+mdg;Madagascar;2018;41
+mdg;Madagascar;2019;42
+mwi;Malawi;2006;38
+mwi;Malawi;2007;49
+mwi;Malawi;2009;51
+mwi;Malawi;2011;39
+mwi;Malawi;2012;43
+mwi;Malawi;2013;40
+mwi;Malawi;2014;46
+mwi;Malawi;2015;39
+mwi;Malawi;2016;35
+mwi;Malawi;2017;34
+mwi;Malawi;2018;33
+mwi;Malawi;2019;35
+mys;Malaysia;2006;60
+mys;Malaysia;2007;62
+mys;Malaysia;2008;58
+mys;Malaysia;2009;54
+mys;Malaysia;2010;56
+mys;Malaysia;2011;58
+mys;Malaysia;2012;59
+mys;Malaysia;2013;58
+mys;Malaysia;2014;60
+mys;Malaysia;2015;63
+mys;Malaysia;2018;53
+mys;Malaysia;2019;54
+mdv;Maldives;2019;52
+mli;Mali;2006;40
+mli;Mali;2008;41
+mli;Mali;2009;40
+mli;Mali;2010;38
+mli;Mali;2011;47
+mli;Mali;2012;43
+mli;Mali;2013;37
+mli;Mali;2014;40
+mli;Mali;2015;46
+mli;Mali;2016;40
+mli;Mali;2017;47
+mli;Mali;2018;44
+mli;Mali;2019;47
+mlt;Malta;2009;63
+mlt;Malta;2010;58
+mlt;Malta;2011;62
+mlt;Malta;2012;60
+mlt;Malta;2013;64
+mlt;Malta;2014;65
+mlt;Malta;2015;66
+mlt;Malta;2016;66
+mlt;Malta;2017;67
+mlt;Malta;2018;69
+mlt;Malta;2019;68
+mrt;Mauritania;2007;41
+mrt;Mauritania;2008;42
+mrt;Mauritania;2009;45
+mrt;Mauritania;2010;48
+mrt;Mauritania;2011;48
+mrt;Mauritania;2012;47
+mrt;Mauritania;2013;42
+mrt;Mauritania;2014;45
+mrt;Mauritania;2015;39
+mrt;Mauritania;2016;45
+mrt;Mauritania;2017;47
+mrt;Mauritania;2018;43
+mrt;Mauritania;2019;44
+mus;Mauritius;2011;55
+mus;Mauritius;2014;56
+mus;Mauritius;2016;56
+mus;Mauritius;2017;62
+mus;Mauritius;2018;59
+mus;Mauritius;2019;61
+mex;Mexico;2005;66
+mex;Mexico;2007;65
+mex;Mexico;2008;68
+mex;Mexico;2009;70
+mex;Mexico;2010;68
+mex;Mexico;2011;69
+mex;Mexico;2012;73
+mex;Mexico;2013;74
+mex;Mexico;2014;67
+mex;Mexico;2015;62
+mex;Mexico;2016;68
+mex;Mexico;2017;64
+mex;Mexico;2018;65
+mex;Mexico;2019;65
+mda;Moldova;2006;51
+mda;Moldova;2007;48
+mda;Moldova;2008;55
+mda;Moldova;2009;56
+mda;Moldova;2010;56
+mda;Moldova;2011;58
+mda;Moldova;2012;60
+mda;Moldova;2013;58
+mda;Moldova;2014;59
+mda;Moldova;2015;60
+mda;Moldova;2016;56
+mda;Moldova;2017;53
+mda;Moldova;2018;57
+mda;Moldova;2019;56
+mng;Mongolia;2007;46
+mng;Mongolia;2008;45
+mng;Mongolia;2010;46
+mng;Mongolia;2011;50
+mng;Mongolia;2012;49
+mng;Mongolia;2013;49
+mng;Mongolia;2014;48
+mng;Mongolia;2015;50
+mng;Mongolia;2016;51
+mng;Mongolia;2017;53
+mng;Mongolia;2018;55
+mng;Mongolia;2019;55
+mne;Montenegro;2007;52
+mne;Montenegro;2009;48
+mne;Montenegro;2010;55
+mne;Montenegro;2011;52
+mne;Montenegro;2012;52
+mne;Montenegro;2013;51
+mne;Montenegro;2014;53
+mne;Montenegro;2015;51
+mne;Montenegro;2016;53
+mne;Montenegro;2017;56
+mne;Montenegro;2018;57
+mne;Montenegro;2019;55
+mar;Morocco;2010;44
+mar;Morocco;2011;51
+mar;Morocco;2012;50
+mar;Morocco;2013;51
+mar;Morocco;2015;52
+mar;Morocco;2016;54
+mar;Morocco;2017;53
+mar;Morocco;2018;49
+mar;Morocco;2019;51
+moz;Mozambique;2006;46
+moz;Mozambique;2007;48
+moz;Mozambique;2008;47
+moz;Mozambique;2011;50
+moz;Mozambique;2015;45
+moz;Mozambique;2017;43
+moz;Mozambique;2018;47
+moz;Mozambique;2019;46
+mmr;Myanmar;2012;44
+mmr;Myanmar;2013;42
+mmr;Myanmar;2014;48
+mmr;Myanmar;2015;42
+mmr;Myanmar;2016;46
+mmr;Myanmar;2017;42
+mmr;Myanmar;2018;44
+mmr;Myanmar;2019;43
+nam;Namibia;2007;49
+nam;Namibia;2014;46
+nam;Namibia;2017;44
+nam;Namibia;2018;48
+nam;Namibia;2019;46
+npl;Nepal;2006;46
+npl;Nepal;2007;47
+npl;Nepal;2008;44
+npl;Nepal;2009;49
+npl;Nepal;2010;43
+npl;Nepal;2011;38
+npl;Nepal;2012;42
+npl;Nepal;2013;46
+npl;Nepal;2014;50
+npl;Nepal;2015;48
+npl;Nepal;2016;51
+npl;Nepal;2017;47
+npl;Nepal;2018;49
+npl;Nepal;2019;51
+nld;Netherlands;2005;75
+nld;Netherlands;2007;75
+nld;Netherlands;2008;76
+nld;Netherlands;2010;75
+nld;Netherlands;2011;76
+nld;Netherlands;2012;75
+nld;Netherlands;2013;74
+nld;Netherlands;2014;73
+nld;Netherlands;2015;73
+nld;Netherlands;2016;75
+nld;Netherlands;2017;75
+nld;Netherlands;2018;75
+nld;Netherlands;2019;74
+nzl;New Zealand;2006;73
+nzl;New Zealand;2007;76
+nzl;New Zealand;2008;74
+nzl;New Zealand;2010;72
+nzl;New Zealand;2011;72
+nzl;New Zealand;2012;72
+nzl;New Zealand;2013;73
+nzl;New Zealand;2014;73
+nzl;New Zealand;2015;74
+nzl;New Zealand;2016;72
+nzl;New Zealand;2017;73
+nzl;New Zealand;2018;74
+nzl;New Zealand;2019;73
+nic;Nicaragua;2006;45
+nic;Nicaragua;2007;49
+nic;Nicaragua;2008;51
+nic;Nicaragua;2009;54
+nic;Nicaragua;2010;57
+nic;Nicaragua;2011;54
+nic;Nicaragua;2012;54
+nic;Nicaragua;2013;58
+nic;Nicaragua;2014;63
+nic;Nicaragua;2015;59
+nic;Nicaragua;2016;60
+nic;Nicaragua;2017;65
+nic;Nicaragua;2018;58
+nic;Nicaragua;2019;61
+ner;Niger;2006;37
+ner;Niger;2007;43
+ner;Niger;2008;42
+ner;Niger;2009;43
+ner;Niger;2010;41
+ner;Niger;2011;46
+ner;Niger;2012;38
+ner;Niger;2013;37
+ner;Niger;2014;42
+ner;Niger;2015;37
+ner;Niger;2016;42
+ner;Niger;2017;46
+ner;Niger;2018;52
+ner;Niger;2019;49
+nga;Nigeria;2006;47
+nga;Nigeria;2007;49
+nga;Nigeria;2008;49
+nga;Nigeria;2009;50
+nga;Nigeria;2010;48
+nga;Nigeria;2012;55
+nga;Nigeria;2013;48
+nga;Nigeria;2015;49
+nga;Nigeria;2016;52
+nga;Nigeria;2017;53
+nga;Nigeria;2018;53
+nga;Nigeria;2019;47
+nor;Norway;2006;74
+nor;Norway;2008;76
+nor;Norway;2012;77
+nor;Norway;2014;74
+nor;Norway;2015;76
+nor;Norway;2016;76
+nor;Norway;2017;76
+nor;Norway;2018;74
+nor;Norway;2019;75
+omn;Oman;2011;69
+pak;Pakistan;2005;52
+pak;Pakistan;2007;57
+pak;Pakistan;2008;44
+pak;Pakistan;2009;52
+pak;Pakistan;2010;58
+pak;Pakistan;2011;53
+pak;Pakistan;2012;51
+pak;Pakistan;2013;51
+pak;Pakistan;2014;54
+pak;Pakistan;2015;48
+pak;Pakistan;2016;55
+pak;Pakistan;2017;58
+pak;Pakistan;2018;55
+pak;Pakistan;2019;57
+pse;Palestine;2006;47
+pse;Palestine;2007;42
+pse;Palestine;2008;44
+pse;Palestine;2009;45
+pse;Palestine;2010;47
+pse;Palestine;2011;48
+pse;Palestine;2012;46
+pse;Palestine;2013;48
+pse;Palestine;2014;47
+pse;Palestine;2015;47
+pse;Palestine;2016;49
+pse;Palestine;2017;46
+pse;Palestine;2018;46
+pse;Palestine;2019;46
+pan;Panama;2006;61
+pan;Panama;2007;69
+pan;Panama;2008;69
+pan;Panama;2009;70
+pan;Panama;2010;73
+pan;Panama;2011;72
+pan;Panama;2012;69
+pan;Panama;2013;69
+pan;Panama;2014;66
+pan;Panama;2015;66
+pan;Panama;2016;61
+pan;Panama;2017;66
+pan;Panama;2018;63
+pan;Panama;2019;63
+pry;Paraguay;2006;47
+pry;Paraguay;2007;53
+pry;Paraguay;2008;56
+pry;Paraguay;2009;56
+pry;Paraguay;2010;58
+pry;Paraguay;2011;57
+pry;Paraguay;2012;58
+pry;Paraguay;2013;59
+pry;Paraguay;2014;51
+pry;Paraguay;2015;56
+pry;Paraguay;2016;58
+pry;Paraguay;2017;57
+pry;Paraguay;2019;57
+per;Peru;2006;48
+per;Peru;2007;52
+per;Peru;2008;51
+per;Peru;2009;55
+per;Peru;2010;56
+per;Peru;2011;59
+per;Peru;2012;58
+per;Peru;2013;58
+per;Peru;2014;59
+per;Peru;2015;56
+per;Peru;2016;57
+per;Peru;2017;57
+per;Peru;2018;57
+per;Peru;2019;58
+phl;Philippines;2006;47
+phl;Philippines;2007;51
+phl;Philippines;2008;46
+phl;Philippines;2009;49
+phl;Philippines;2010;49
+phl;Philippines;2011;50
+phl;Philippines;2012;50
+phl;Philippines;2013;50
+phl;Philippines;2014;53
+phl;Philippines;2015;55
+phl;Philippines;2016;54
+phl;Philippines;2017;56
+phl;Philippines;2018;59
+phl;Philippines;2019;60
+pol;Poland;2005;56
+pol;Poland;2007;59
+pol;Poland;2009;58
+pol;Poland;2010;59
+pol;Poland;2011;56
+pol;Poland;2012;59
+pol;Poland;2013;57
+pol;Poland;2014;58
+pol;Poland;2015;60
+pol;Poland;2016;62
+pol;Poland;2017;62
+pol;Poland;2019;62
+prt;Portugal;2006;54
+prt;Portugal;2008;57
+prt;Portugal;2010;51
+prt;Portugal;2011;52
+prt;Portugal;2012;50
+prt;Portugal;2013;52
+prt;Portugal;2014;51
+prt;Portugal;2015;51
+prt;Portugal;2016;54
+prt;Portugal;2017;57
+prt;Portugal;2018;59
+prt;Portugal;2019;59
+qat;Qatar;2009;64
+qat;Qatar;2010;68
+qat;Qatar;2011;66
+qat;Qatar;2012;66
+qat;Qatar;2015;64
+rou;Romania;2005;50
+rou;Romania;2007;54
+rou;Romania;2009;54
+rou;Romania;2010;49
+rou;Romania;2011;50
+rou;Romania;2012;52
+rou;Romania;2013;51
+rou;Romania;2014;57
+rou;Romania;2015;58
+rou;Romania;2016;60
+rou;Romania;2017;61
+rou;Romania;2018;62
+rou;Romania;2019;61
+rus;Russia;2006;50
+rus;Russia;2007;52
+rus;Russia;2008;56
+rus;Russia;2009;52
+rus;Russia;2010;54
+rus;Russia;2011;54
+rus;Russia;2012;56
+rus;Russia;2013;55
+rus;Russia;2014;60
+rus;Russia;2015;60
+rus;Russia;2016;59
+rus;Russia;2017;56
+rus;Russia;2018;55
+rus;Russia;2019;55
+rwa;Rwanda;2006;42
+rwa;Rwanda;2008;44
+rwa;Rwanda;2009;40
+rwa;Rwanda;2011;41
+rwa;Rwanda;2012;33
+rwa;Rwanda;2013;35
+rwa;Rwanda;2014;36
+rwa;Rwanda;2015;35
+rwa;Rwanda;2016;33
+rwa;Rwanda;2017;31
+rwa;Rwanda;2018;36
+rwa;Rwanda;2019;33
+sau;Saudi Arabia;2005;71
+sau;Saudi Arabia;2007;73
+sau;Saudi Arabia;2008;68
+sau;Saudi Arabia;2009;61
+sau;Saudi Arabia;2010;63
+sau;Saudi Arabia;2011;67
+sau;Saudi Arabia;2012;64
+sau;Saudi Arabia;2013;65
+sau;Saudi Arabia;2014;63
+sau;Saudi Arabia;2015;63
+sau;Saudi Arabia;2016;65
+sau;Saudi Arabia;2017;63
+sau;Saudi Arabia;2018;64
+sau;Saudi Arabia;2019;64
+sen;Senegal;2006;44
+sen;Senegal;2007;47
+sen;Senegal;2008;47
+sen;Senegal;2009;43
+sen;Senegal;2010;44
+sen;Senegal;2011;38
+sen;Senegal;2012;37
+sen;Senegal;2013;36
+sen;Senegal;2014;44
+sen;Senegal;2015;46
+sen;Senegal;2016;46
+sen;Senegal;2017;47
+sen;Senegal;2018;48
+sen;Senegal;2019;50
+srb;Serbia;2007;48
+srb;Serbia;2009;44
+srb;Serbia;2010;45
+srb;Serbia;2011;48
+srb;Serbia;2012;52
+srb;Serbia;2013;51
+srb;Serbia;2014;51
+srb;Serbia;2015;53
+srb;Serbia;2016;58
+srb;Serbia;2017;51
+srb;Serbia;2018;59
+srb;Serbia;2019;58
+sle;Sierra Leone;2006;36
+sle;Sierra Leone;2007;36
+sle;Sierra Leone;2008;30
+sle;Sierra Leone;2010;41
+sle;Sierra Leone;2011;45
+sle;Sierra Leone;2013;45
+sle;Sierra Leone;2014;45
+sle;Sierra Leone;2015;49
+sle;Sierra Leone;2016;47
+sle;Sierra Leone;2017;41
+sle;Sierra Leone;2018;43
+sle;Sierra Leone;2019;39
+sgp;Singapore;2006;65
+sgp;Singapore;2007;68
+sgp;Singapore;2008;66
+sgp;Singapore;2009;61
+sgp;Singapore;2010;65
+sgp;Singapore;2011;66
+sgp;Singapore;2013;65
+sgp;Singapore;2014;71
+sgp;Singapore;2015;66
+sgp;Singapore;2016;60
+sgp;Singapore;2017;64
+sgp;Singapore;2018;64
+sgp;Singapore;2019;64
+svk;Slovak Republic;2006;53
+svk;Slovak Republic;2010;61
+svk;Slovak Republic;2011;59
+svk;Slovak Republic;2012;59
+svk;Slovak Republic;2013;59
+svk;Slovak Republic;2014;61
+svk;Slovak Republic;2015;62
+svk;Slovak Republic;2016;60
+svk;Slovak Republic;2017;64
+svk;Slovak Republic;2018;62
+svk;Slovak Republic;2019;63
+svn;Slovenia;2006;58
+svn;Slovenia;2009;58
+svn;Slovenia;2010;61
+svn;Slovenia;2011;60
+svn;Slovenia;2012;61
+svn;Slovenia;2013;60
+svn;Slovenia;2014;57
+svn;Slovenia;2015;57
+svn;Slovenia;2016;59
+svn;Slovenia;2017;62
+svn;Slovenia;2018;62
+svn;Slovenia;2019;64
+som;Somalia;2009;50
+som;Somalia;2010;47
+som;Somalia;2011;49
+som;Somalia;2012;51
+som;Somalia;2014;55
+som;Somalia;2015;54
+som;Somalia;2016;47
+zaf;South Africa;2006;51
+zaf;South Africa;2007;52
+zaf;South Africa;2008;53
+zaf;South Africa;2009;52
+zaf;South Africa;2010;47
+zaf;South Africa;2011;49
+zaf;South Africa;2012;51
+zaf;South Africa;2013;37
+zaf;South Africa;2014;48
+zaf;South Africa;2015;49
+zaf;South Africa;2016;48
+zaf;South Africa;2017;45
+zaf;South Africa;2018;49
+zaf;South Africa;2019;48
+kor;South Korea;2006;53
+kor;South Korea;2007;58
+kor;South Korea;2008;54
+kor;South Korea;2009;56
+kor;South Korea;2010;61
+kor;South Korea;2011;69
+kor;South Korea;2012;60
+kor;South Korea;2013;60
+kor;South Korea;2014;58
+kor;South Korea;2015;58
+kor;South Korea;2016;60
+kor;South Korea;2017;59
+kor;South Korea;2018;58
+kor;South Korea;2019;59
+ssd;South Sudan;2014;38
+ssd;South Sudan;2015;41
+ssd;South Sudan;2016;29
+ssd;South Sudan;2017;28
+ssd;South Sudan;2019;28
+esp;Spain;2005;72
+esp;Spain;2007;70
+esp;Spain;2008;73
+esp;Spain;2009;62
+esp;Spain;2010;62
+esp;Spain;2011;65
+esp;Spain;2012;63
+esp;Spain;2013;62
+esp;Spain;2014;65
+esp;Spain;2015;64
+esp;Spain;2016;63
+esp;Spain;2017;62
+esp;Spain;2018;65
+esp;Spain;2019;64
+lka;Sri Lanka;2006;43
+lka;Sri Lanka;2007;44
+lka;Sri Lanka;2008;44
+lka;Sri Lanka;2009;42
+lka;Sri Lanka;2010;40
+lka;Sri Lanka;2011;42
+lka;Sri Lanka;2012;42
+lka;Sri Lanka;2013;44
+lka;Sri Lanka;2014;43
+lka;Sri Lanka;2015;46
+lka;Sri Lanka;2017;43
+lka;Sri Lanka;2018;44
+lka;Sri Lanka;2019;43
+sdn;Sudan;2009;45
+sdn;Sudan;2010;44
+sdn;Sudan;2011;43
+sdn;Sudan;2012;46
+sdn;Sudan;2014;41
+sur;Suriname;2012;63
+swz;Swaziland;2011;49
+swz;Swaziland;2018;42
+swz;Swaziland;2019;43
+swe;Sweden;2005;74
+swe;Sweden;2007;72
+swe;Sweden;2008;75
+swe;Sweden;2009;73
+swe;Sweden;2010;75
+swe;Sweden;2011;74
+swe;Sweden;2012;76
+swe;Sweden;2013;74
+swe;Sweden;2014;72
+swe;Sweden;2015;73
+swe;Sweden;2016;74
+swe;Sweden;2017;73
+swe;Sweden;2018;74
+swe;Sweden;2019;74
+che;Switzerland;2006;75
+che;Switzerland;2009;75
+che;Switzerland;2012;78
+che;Switzerland;2014;75
+che;Switzerland;2015;76
+che;Switzerland;2016;75
+che;Switzerland;2017;75
+che;Switzerland;2018;75
+che;Switzerland;2019;76
+syr;Syria;2008;53
+syr;Syria;2009;50
+syr;Syria;2010;45
+syr;Syria;2011;40
+syr;Syria;2012;32
+syr;Syria;2013;27
+syr;Syria;2015;35
+twn;Taiwan;2006;62
+twn;Taiwan;2008;55
+twn;Taiwan;2010;62
+twn;Taiwan;2011;63
+twn;Taiwan;2012;61
+twn;Taiwan;2013;63
+twn;Taiwan;2014;64
+twn;Taiwan;2015;65
+twn;Taiwan;2016;65
+twn;Taiwan;2017;64
+twn;Taiwan;2018;65
+twn;Taiwan;2019;65
+tjk;Tajikistan;2006;46
+tjk;Tajikistan;2007;44
+tjk;Tajikistan;2008;51
+tjk;Tajikistan;2009;46
+tjk;Tajikistan;2010;44
+tjk;Tajikistan;2011;43
+tjk;Tajikistan;2012;45
+tjk;Tajikistan;2013;50
+tjk;Tajikistan;2014;49
+tjk;Tajikistan;2015;51
+tjk;Tajikistan;2016;51
+tjk;Tajikistan;2017;58
+tjk;Tajikistan;2019;56
+tza;Tanzania;2006;39
+tza;Tanzania;2007;43
+tza;Tanzania;2008;44
+tza;Tanzania;2009;34
+tza;Tanzania;2010;32
+tza;Tanzania;2011;41
+tza;Tanzania;2012;40
+tza;Tanzania;2013;39
+tza;Tanzania;2014;35
+tza;Tanzania;2015;37
+tza;Tanzania;2016;29
+tza;Tanzania;2017;33
+tza;Tanzania;2018;34
+tza;Tanzania;2019;35
+tha;Thailand;2006;59
+tha;Thailand;2007;58
+tha;Thailand;2008;56
+tha;Thailand;2009;55
+tha;Thailand;2010;62
+tha;Thailand;2011;67
+tha;Thailand;2012;63
+tha;Thailand;2013;62
+tha;Thailand;2014;70
+tha;Thailand;2015;62
+tha;Thailand;2016;61
+tha;Thailand;2017;59
+tha;Thailand;2018;60
+tha;Thailand;2019;60
+tgo;Togo;2006;32
+tgo;Togo;2008;28
+tgo;Togo;2011;29
+tgo;Togo;2014;28
+tgo;Togo;2015;38
+tgo;Togo;2016;39
+tgo;Togo;2017;44
+tgo;Togo;2018;40
+tgo;Togo;2019;42
+tto;Trinidad and Tobago;2006;58
+tto;Trinidad and Tobago;2008;67
+tto;Trinidad and Tobago;2011;65
+tto;Trinidad and Tobago;2013;62
+tto;Trinidad and Tobago;2017;62
+tto;Trinidad and Tobago;2019;62
+tun;Tunisia;2009;50
+tun;Tunisia;2010;51
+tun;Tunisia;2011;49
+tun;Tunisia;2012;45
+tun;Tunisia;2013;52
+tun;Tunisia;2014;48
+tun;Tunisia;2015;51
+tun;Tunisia;2016;45
+tun;Tunisia;2017;41
+tun;Tunisia;2018;47
+tun;Tunisia;2019;44
+tur;Turkey;2005;47
+tur;Turkey;2007;56
+tur;Turkey;2008;51
+tur;Turkey;2009;52
+tur;Turkey;2010;55
+tur;Turkey;2011;53
+tur;Turkey;2012;53
+tur;Turkey;2013;49
+tur;Turkey;2014;56
+tur;Turkey;2015;55
+tur;Turkey;2016;53
+tur;Turkey;2017;56
+tur;Turkey;2018;52
+tur;Turkey;2019;51
+tkm;Turkmenistan;2009;66
+tkm;Turkmenistan;2011;58
+tkm;Turkmenistan;2012;55
+tkm;Turkmenistan;2013;54
+tkm;Turkmenistan;2014;58
+tkm;Turkmenistan;2015;58
+tkm;Turkmenistan;2016;59
+tkm;Turkmenistan;2017;52
+tkm;Turkmenistan;2018;46
+tkm;Turkmenistan;2019;51
+uga;Uganda;2006;37
+uga;Uganda;2007;45
+uga;Uganda;2008;46
+uga;Uganda;2009;46
+uga;Uganda;2010;42
+uga;Uganda;2011;48
+uga;Uganda;2012;43
+uga;Uganda;2013;37
+uga;Uganda;2014;38
+uga;Uganda;2015;42
+uga;Uganda;2016;42
+uga;Uganda;2017;40
+uga;Uganda;2018;43
+uga;Uganda;2019;44
+ukr;Ukraine;2006;48
+ukr;Ukraine;2007;53
+ukr;Ukraine;2008;52
+ukr;Ukraine;2009;52
+ukr;Ukraine;2010;51
+ukr;Ukraine;2011;51
+ukr;Ukraine;2012;50
+ukr;Ukraine;2013;47
+ukr;Ukraine;2014;43
+ukr;Ukraine;2015;40
+ukr;Ukraine;2016;40
+ukr;Ukraine;2017;43
+ukr;Ukraine;2018;47
+ukr;Ukraine;2019;46
+are;United Arab Emirates;2006;67
+are;United Arab Emirates;2009;69
+are;United Arab Emirates;2010;71
+are;United Arab Emirates;2011;71
+are;United Arab Emirates;2012;72
+are;United Arab Emirates;2013;66
+are;United Arab Emirates;2014;65
+are;United Arab Emirates;2015;66
+are;United Arab Emirates;2016;68
+are;United Arab Emirates;2017;70
+are;United Arab Emirates;2018;66
+are;United Arab Emirates;2019;68
+gbr;United Kingdom;2005;70
+gbr;United Kingdom;2007;68
+gbr;United Kingdom;2008;70
+gbr;United Kingdom;2009;69
+gbr;United Kingdom;2010;70
+gbr;United Kingdom;2011;69
+gbr;United Kingdom;2012;69
+gbr;United Kingdom;2013;69
+gbr;United Kingdom;2014;68
+gbr;United Kingdom;2015;65
+gbr;United Kingdom;2016;68
+gbr;United Kingdom;2017;71
+gbr;United Kingdom;2018;72
+gbr;United Kingdom;2019;72
+usa;United States;2006;72
+usa;United States;2007;75
+usa;United States;2008;73
+usa;United States;2009;72
+usa;United States;2010;72
+usa;United States;2011;71
+usa;United States;2012;70
+usa;United States;2013;72
+usa;United States;2014;72
+usa;United States;2015;69
+usa;United States;2016;68
+usa;United States;2017;70
+usa;United States;2018;69
+usa;United States;2019;69
+ury;Uruguay;2006;58
+ury;Uruguay;2007;57
+ury;Uruguay;2008;57
+ury;Uruguay;2009;63
+ury;Uruguay;2010;61
+ury;Uruguay;2011;66
+ury;Uruguay;2012;64
+ury;Uruguay;2013;64
+ury;Uruguay;2014;66
+ury;Uruguay;2015;66
+ury;Uruguay;2016;62
+ury;Uruguay;2017;63
+ury;Uruguay;2018;64
+ury;Uruguay;2019;64
+uzb;Uzbekistan;2006;52
+uzb;Uzbekistan;2008;53
+uzb;Uzbekistan;2009;53
+uzb;Uzbekistan;2010;51
+uzb;Uzbekistan;2011;57
+uzb;Uzbekistan;2012;60
+uzb;Uzbekistan;2013;59
+uzb;Uzbekistan;2014;60
+uzb;Uzbekistan;2015;60
+uzb;Uzbekistan;2016;59
+uzb;Uzbekistan;2017;64
+uzb;Uzbekistan;2018;62
+uzb;Uzbekistan;2019;63
+ven;Venezuela;2005;72
+ven;Venezuela;2006;65
+ven;Venezuela;2008;63
+ven;Venezuela;2009;72
+ven;Venezuela;2010;75
+ven;Venezuela;2011;66
+ven;Venezuela;2012;71
+ven;Venezuela;2013;66
+ven;Venezuela;2014;61
+ven;Venezuela;2015;56
+ven;Venezuela;2016;40
+ven;Venezuela;2017;51
+ven;Venezuela;2018;50
+ven;Venezuela;2019;51
+vnm;Vietnam;2006;53
+vnm;Vietnam;2007;54
+vnm;Vietnam;2008;55
+vnm;Vietnam;2009;53
+vnm;Vietnam;2010;53
+vnm;Vietnam;2011;58
+vnm;Vietnam;2012;55
+vnm;Vietnam;2013;50
+vnm;Vietnam;2014;51
+vnm;Vietnam;2015;51
+vnm;Vietnam;2016;51
+vnm;Vietnam;2017;52
+vnm;Vietnam;2018;53
+vnm;Vietnam;2019;54
+yem;Yemen;2007;45
+yem;Yemen;2009;48
+yem;Yemen;2010;44
+yem;Yemen;2011;37
+yem;Yemen;2012;41
+yem;Yemen;2013;42
+yem;Yemen;2014;40
+yem;Yemen;2015;30
+yem;Yemen;2016;38
+yem;Yemen;2017;33
+yem;Yemen;2018;31
+yem;Yemen;2019;35
+zmb;Zambia;2006;48
+zmb;Zambia;2007;40
+zmb;Zambia;2008;47
+zmb;Zambia;2009;53
+zmb;Zambia;2011;50
+zmb;Zambia;2012;50
+zmb;Zambia;2013;52
+zmb;Zambia;2014;43
+zmb;Zambia;2015;48
+zmb;Zambia;2016;43
+zmb;Zambia;2017;39
+zmb;Zambia;2018;40
+zmb;Zambia;2019;38
+zwe;Zimbabwe;2006;38
+zwe;Zimbabwe;2007;33
+zwe;Zimbabwe;2008;32
+zwe;Zimbabwe;2009;41
+zwe;Zimbabwe;2010;47
+zwe;Zimbabwe;2011;48
+zwe;Zimbabwe;2012;50
+zwe;Zimbabwe;2013;47
+zwe;Zimbabwe;2014;42
+zwe;Zimbabwe;2015;37
+zwe;Zimbabwe;2016;37
+zwe;Zimbabwe;2017;36
+zwe;Zimbabwe;2018;36
+zwe;Zimbabwe;2019;33
